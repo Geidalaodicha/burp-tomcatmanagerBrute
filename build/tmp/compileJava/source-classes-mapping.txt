@@ -1,0 +1,13 @@
+burp/Bootstrap/WeakPassword.java
+ burp.Bootstrap.WeakPassword
+burp/Bootstrap/CustomHelpers.java
+ burp.Bootstrap.CustomHelpers
+burp/Tags.java
+ burp.Tags
+ burp.Tags$1
+ burp.Tags$TablesData
+ burp.Tags$URLTable
+burp/Bootstrap/DomainNameRepeat.java
+ burp.Bootstrap.DomainNameRepeat
+burp/BurpExtender.java
+ burp.BurpExtender
